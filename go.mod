@@ -1,3 +1,3 @@
 module github.com/wsgomes/lib-go-parsemail
 
-go 1.21
+go 1.22
